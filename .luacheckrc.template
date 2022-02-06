@@ -12,6 +12,8 @@ stds.cfx = {
         "SetTimeout",
         "Await",
         "Trace",
+        "Entity",
+        "Player",
         "quat",
         "vec",
         "vector2", "vec2",
