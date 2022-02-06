@@ -32,6 +32,8 @@ stds.cfx_sv = {
     globals = {"GlobalState"},
     read_globals = {
         "source",
+        "Entity",
+        "Player",
         "TriggerClientEvent",
         "TriggerLatentClientEvent",
         "RegisterServerEvent",
