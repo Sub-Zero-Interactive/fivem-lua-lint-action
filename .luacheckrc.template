@@ -7,6 +7,9 @@ stds.cfx = {
             }
         },
         exports = { other_fields = true },
+        GlobalState = { other_fields = true },
+        "Player",
+        "Vehicle",
         "Wait",
         "CreateThread",
         "SetTimeout",
@@ -70,13 +73,6 @@ stds.cfx_manifest = {
         "clr_disable_task_scheduler", "my_data",
         "ui_page_preload", "loadscreen_manual_shutdown",
     },
-}
-
-stds.esx_reborn = {
-  globals = {
-    "run", "module", "M", "__NAME__", "__GROUP__",
-    "__RESOURCE__", "__DIR__", "_ENV", "__ENV__",
-  }
 }
 
 -- manifest
