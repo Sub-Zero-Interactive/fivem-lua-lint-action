@@ -11,10 +11,10 @@
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noEmitOnError": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "noUncheckedIndexedAccess": true,
     "noFallthroughCasesInSwitch": true,
-    "noUnusedParameters": true,
+    "noUnusedParameters": false,
     "pretty": true
   }
 }
